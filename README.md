@@ -1,6 +1,4 @@
-## Presentation Template
-
-A LaTeX Beamer template for presentations using the Metropolis theme.
+## SFBT Brainstorm
 
 ### Authorship
 
